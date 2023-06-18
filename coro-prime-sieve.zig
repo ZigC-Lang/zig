@@ -1,6 +1,4 @@
 
-
-```zig
 const std = @import("std");
 
 fn generate(ch: *u32) void {
@@ -48,4 +46,4 @@ pub fn main(argc: isize, argv: [][]const u8) !void {
         i += 1;
     }
 }
-```
+
